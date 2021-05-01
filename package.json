@@ -1,0 +1,29 @@
+{
+  "name": "datacollector",
+  "version": "1.0.0",
+  "description": "Covid data aggrigator collects geographical data from various trusted sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanna Kumar Gollangi <prassu158@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tabletojson": "^2.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covid19maps/datacollector.git"
+  },
+  "keywords": [
+    "covid19maps",
+    "covidmaps",
+    "covid19",
+    "india"
+  ],
+  "bugs": {
+    "url": "https://github.com/covid19maps/datacollector/issues"
+  },
+  "homepage": "https://github.com/covid19maps/datacollector#readme"
+}
