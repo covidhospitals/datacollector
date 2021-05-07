@@ -9,10 +9,15 @@ const NodeGeocoder = require('node-geocoder');
 
 const tabletojson = require('tabletojson').Tabletojson;
 
-
-const form = new FormData();
-
-form.append('districtGraph', 1);
+// tabletojson.convertUrl('https://coronabeds.jantasamvad.org/beds.html',
+//     {
+//         // got: {
+//         //     method: "POST",
+//         // }
+//     },
+//     function (tablesAsJson) {
+//         console.log(tablesAsJson)
+//     });
 
 // tabletojson.convertUrl(
 //     'http://dashboard.covid19.ap.gov.in/ims/hospbed_reports/process.php',
@@ -94,29 +99,23 @@ form.append('districtGraph', 1);
 // );
 
 
-// const options = {
-//     provider: 'mapquest',
+const options = {
+    provider: 'google',
 
-//     // Optional depending on the providers
-//     // fetch: customFetchImplementation,
-//     apiKey: 'trYQZSIHXoqZWeet3Yl8ouAfBLlK7ldD', // 'AIzaSyBXaBrugij8OryGNqGG0-gyDHCeFwgmO9E', // for Mapquest, OpenCage, Google Premier
-//     formatter: null // 'gpx', 'string', ...
-// };
+    // Optional depending on the providers
+    // fetch: customFetchImplementation,
+    apiKey: 'AIzaSyBwRp1e12ec1vOTtGiA4fcCt2sCUS78UYc', // 'AIzaSyBXaBrugij8OryGNqGG0-gyDHCeFwgmO9E', // for Mapquest, OpenCage, Google Premier
+    formatter: null // 'gpx', 'string', ...
+};
 
-// const geocoder = NodeGeocoder(options);
+const geocoder = NodeGeocoder(options);
 
-// const res = geocoder.batchGeocode([{
-//     address: 'PVS Rammohan Hospital Srikakulam Andhra Pradesh',
-//     countryCode: 'IN',
-//     limit: 1
-// },
-// {
-//     address: 'Baggu sarojini devi hospital Srikakulam Andhra Pradesh',
-//     countryCode: 'IN',
-//     limit: 1
-// }]);
+const res = geocoder.geocode({
+    address: 'AH KUPPAM, Chittoor, Andhra Pradesh',
+    countryCode: 'IN',
+    limit: 1
+});
 
-// res.then(function(result) {
-//     console.log('RESULT ', result)
-// })
-// console.log(res)
+res.then(function(result) {
+    console.log('RESULT ', result)
+})

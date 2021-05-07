@@ -4,6 +4,9 @@ var { parse } = require('node-html-parser');
 const tabletojson = require('tabletojson').Tabletojson;
 const jsonfile = require('jsonfile')
 
+var _ = require('lodash');
+
+
 
 const NodeGeocoder = require('node-geocoder');
 
@@ -129,7 +132,7 @@ async function collectionHospitalLocations() {
 
         // Optional depending on the providers
         // fetch: customFetchImplementation,
-        apiKey: 'trYQZSIHXoqZWeet3Yl8ouAfBLlK7ldD', // 'AIzaSyBXaBrugij8OryGNqGG0-gyDHCeFwgmO9E', // for Mapquest, OpenCage, Google Premier
+        apiKey: process.env.MAP_API_KEY, // for Mapquest, OpenCage, Google Premier
         formatter: null // 'gpx', 'string', ...
     };
 
@@ -175,5 +178,38 @@ async function collectionHospitalLocations() {
 }
 
 // collectHospitalData()
-collectionHospitalLocations();
+// collectionHospitalLocations();
 
+
+async function updateBeds() {
+    var allHospitals = await getHospitalData();
+    var updatedData = _.groupBy(allHospitals, 'name');
+
+    var hospitalFile = await jsonfile.readFile("ap-hospitals-locations.json")
+
+    var deletedHospitals = []
+
+    console.log('ALL LATEST ', Object.keys(updatedData))
+
+    var finalList = hospitalFile.hospitals.map(h => {
+        var updated = updatedData[h.name];
+        if (!updated) {
+            deletedHospitals.push(updated)
+        } else {
+            delete updatedData[h.name];
+            return _.extend(h, updated);
+        }
+    });
+
+    console.log('DELETE HOSPITAL ', deletedHospitals);
+    console.log('NEW HOSPITALS', updatedData);
+
+    jsonfile.writeFile("ap-hospitals-locations-07052021.json", {
+        lastUpdatedAt: new Date(),
+        stateOrLocality: "Andhra Pradesh",
+        source: "http://dashboard.covid19.ap.gov.in/",
+        hospitals: finalList
+    });
+}
+
+updateBeds();

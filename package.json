@@ -9,9 +9,12 @@
   "author": "Prasanna Kumar Gollangi <prassu158@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^9.0.0",
     "form-data": "^4.0.0",
     "html-table-to-json": "^1.0.0",
     "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
     "node-geocoder": "^3.27.0",
     "node-html-parser": "^3.2.0",
     "striptags": "^3.1.1",
