@@ -182,29 +182,27 @@ async function collectionHospitalLocations() {
 
 
 async function updateBeds() {
-    var allHospitals = await getHospitalData();
-    var updatedData = _.groupBy(allHospitals, 'name');
+    var hospitalLocFile = await jsonfile.readFile("ap-hospitals-locations.json")
+    var allHospitals =  await jsonfile.readFile("ap-hospitals.json")
+    var locateData = _.groupBy(hospitalLocFile.hospitals, 'name');
 
     var hospitalFile = await jsonfile.readFile("ap-hospitals-locations.json")
 
-    var deletedHospitals = []
+    var locationNotFound = []
 
-    console.log('ALL LATEST ', Object.keys(updatedData))
-
-    var finalList = hospitalFile.hospitals.map(h => {
-        var updated = updatedData[h.name];
+    var finalList = allHospitals.hospitals.map(h => {
+        var updated = locateData[h.name];
         if (!updated) {
-            deletedHospitals.push(updated)
+            locationNotFound.push(h)
         } else {
-            delete updatedData[h.name];
-            return _.extend(h, updated);
+            h.location = updated[0].location;
+            return h
         }
-    });
+    }).filter(h => !!h);
 
-    console.log('DELETE HOSPITAL ', deletedHospitals);
-    console.log('NEW HOSPITALS', updatedData);
+    console.log('locationNotFound', locationNotFound);
 
-    jsonfile.writeFile("ap-hospitals-locations-07052021.json", {
+    jsonfile.writeFile("ap-hospitals-locations-live.json", {
         lastUpdatedAt: new Date(),
         stateOrLocality: "Andhra Pradesh",
         source: "http://dashboard.covid19.ap.gov.in/",
@@ -212,4 +210,6 @@ async function updateBeds() {
     });
 }
 
+// collectHospitalData();
 updateBeds();
+
