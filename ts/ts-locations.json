@@ -1,0 +1,1091 @@
+{
+    "Utnoor Rd, Utnur, Telangana 504311, India": {
+        "formattedAddress": "Utnoor Rd, Utnur, Telangana, India",
+        "latitude": 19.37336,
+        "longitude": 78.7775539,
+        "extra": {
+            "googlePlaceId": "EiJVdG5vb3IgUmQsIFV0bnVyLCBUZWxhbmdhbmEsIEluZGlhIi4qLAoUChIJLXMe0CSD0jsR49DMWJil5XwSFAoSCbMz3LSvhdI7EfikReeP8BWm",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Utnur",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Adilabad",
+            "level2short": "Adilabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Utnoor Road",
+        "city": "Utnur",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Bhadrachalam, Telangana 507111, India": {
+        "formattedAddress": "Bhadrachalam, Telangana 507111, India",
+        "latitude": 17.6687912,
+        "longitude": 80.8935925,
+        "extra": {
+            "googlePlaceId": "ChIJTen35bOoNjoRLpY4kLv5AFU",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Bhadrachalam",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Khammam",
+            "level2short": "Khammam",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Bhadrachalam",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "507111",
+        "provider": "google"
+    },
+    "FLOWERS MARKET, Manuguru Main Rd, Pilot Colony, Manuguru (PT), Telangana 507117, India": {
+        "formattedAddress": "Manuguru Main Rd, Pilot Colony, Manuguru (PT), Telangana 507117, India",
+        "latitude": 17.9415493,
+        "longitude": 80.8158701,
+        "extra": {
+            "googlePlaceId": "Ej9NYW51Z3VydSBNYWluIFJkLCBQaWxvdCBDb2xvbnksIE1hbnVndXJ1IChQVCksIFRlbGFuZ2FuYSwgSW5kaWEiLiosChQKEgnHBNMZG1YxOhGTgMTQFZ3UlRIUChIJk7-jc_X9MzoR3T9ogN2Nfm8",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Pilot Colony",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Khammam",
+            "level2short": "Khammam",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Manuguru Main Road",
+        "city": "Manuguru (PT)",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "507117",
+        "provider": "google"
+    },
+    "13-1-201/1, Main Hospital Road, Peon Basthi, Kothagudem, Telangana 507101, India": {
+        "formattedAddress": "201, 13-1-201/1, Main Hospital Road, Peon Basthi, Kothagudem, Telangana 507101, India",
+        "latitude": 17.5410956,
+        "longitude": 80.62830389999999,
+        "extra": {
+            "googlePlaceId": "ElUyMDEsIDEzLTEtMjAxLzEsIE1haW4gSG9zcGl0YWwgUm9hZCwgUGVvbiBCYXN0aGksIEtvdGhhZ3VkZW0sIFRlbGFuZ2FuYSA1MDcxMDEsIEluZGlhIh8aHQoWChQKEgmf8UJLqxA0OhEMH7Ft-1slZhIDMjAx",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": "201",
+            "neighborhood": "Peon Basthi",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Khammam",
+            "level2short": "Khammam",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetNumber": "13-1-201/1",
+        "streetName": "Main Hospital Road",
+        "city": "Kothagudem",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "507101",
+        "provider": "google"
+    },
+    "Maruthi Nagar, Langar Houz, Hyderabad, Telangana 500008, India": {
+        "formattedAddress": "Maruthi Nagar, Langar Houz, Hyderabad, Telangana 500008, India",
+        "latitude": 17.3822425,
+        "longitude": 78.4254543,
+        "extra": {
+            "googlePlaceId": "ChIJ1_ZIp_6WyzsR3CeF79Eo2SA",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Maruthi Nagar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Ranga Reddy",
+            "level2short": "R.R. District",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500008",
+        "provider": "google"
+    },
+    "Malakpet, Hyderabad, Telangana 500024, India": {
+        "formattedAddress": "Malakpet, Hyderabad, Telangana 500024, India",
+        "latitude": 17.3716458,
+        "longitude": 78.49097669999999,
+        "extra": {
+            "googlePlaceId": "ChIJMWuBHkWYyzsR0zDqllBc9GI",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Malakpet",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500024",
+        "provider": "google"
+    },
+    "#5-5275/1, darusalam Road, Nampally., Sri Balaji Enclave, Ghosha Mahal, Nampally, Hyderabad, Telangana 500001, India": {
+        "formattedAddress": "5, Darussalam Rd, Sri Balaji Enclave, Ghosha Mahal, Nampally, Hyderabad, Telangana 500001, India",
+        "latitude": 17.387588,
+        "longitude": 78.46705709999999,
+        "extra": {
+            "googlePlaceId": "EmA1LCBEYXJ1c3NhbGFtIFJkLCBTcmkgQmFsYWppIEVuY2xhdmUsIEdob3NoYSBNYWhhbCwgTmFtcGFsbHksIEh5ZGVyYWJhZCwgVGVsYW5nYW5hIDUwMDAwMSwgSW5kaWEiGhIYChQKEgnHiGS2e5fLOxF8mtIRbzlnthAF",
+            "confidence": 0.9,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Sri Balaji Enclave",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetNumber": "5",
+        "streetName": "Darussalam Road",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500001",
+        "provider": "google"
+    },
+    "Opp ESI Bus Stop, Kalyan Nagar Phase 1, Erragadda, Hyderabad, Telangana 500038, India": {
+        "formattedAddress": "Opp ESI Bus Stop, Kalyan Nagar Phase 1, Erragadda, Hyderabad, Telangana 500038, India",
+        "latitude": 17.4452559,
+        "longitude": 78.4349556,
+        "extra": {
+            "googlePlaceId": "ChIJq0l5092QyzsRLjL3XoCAA0c",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Kalyan Nagar Phase 1",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500038",
+        "provider": "google"
+    },
+    "3-5-773, King Koti Rd, King Koti, Hyderguda, King Koti, Hyderabad, Telangana 500001, India": {
+        "formattedAddress": "3-5-773, King Koti Rd, Old MLA Quarters, King Koti, Hyderguda, Telangana, India",
+        "latitude": 17.393882,
+        "longitude": 78.4822447,
+        "extra": {
+            "googlePlaceId": "ChIJmSNSE9qZyzsR0oYy14P-2iI",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Old MLA Quarters",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetNumber": "3-5-773",
+        "streetName": "King Koti Road",
+        "city": "Hyderguda",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "10, Essae Digitronics Road, Model Colony, BK Guda, Sanath Nagar, BK Guda, Sanath Nagar, Hyderabad, Telangana 500038, India": {
+        "formattedAddress": "10, ESI Diagnostics Rd, Model Colony, BK Guda, Sanath Nagar, Hyderabad, Telangana 500038, India",
+        "latitude": 17.4489382,
+        "longitude": 78.43911299999999,
+        "extra": {
+            "googlePlaceId": "ChIJpaJzj-eQyzsRDnvsb5kCXwg",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Model Colony",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetNumber": "10",
+        "streetName": "ESI Diagnostics Road",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500038",
+        "provider": "google"
+    },
+    "Bhoiguda Road, M.I.G.H colony, Musheerabad, Walker Town, Padmarao Nagar, Secunderabad, Telangana 500025, India": {
+        "formattedAddress": "Bhoiguda Road, MIGH Colony, Walker Town, Padmarao Nagar, Hyderabad, Telangana, India",
+        "latitude": 17.4247094,
+        "longitude": 78.50195769999999,
+        "extra": {
+            "googlePlaceId": "ElRCaG9pZ3VkYSBSb2FkLCBNSUdIIENvbG9ueSwgV2Fsa2VyIFRvd24sIFBhZG1hcmFvIE5hZ2FyLCBIeWRlcmFiYWQsIFRlbGFuZ2FuYSwgSW5kaWEiLiosChQKEgklVoQoipnLOxFToAV9-7cWYBIUChIJET3rCYuZyzsRCqhpW6h1wvQ",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "MIGH Colony",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Bhoiguda Road",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Bank St, Opp SBI Main Branch, Troop Bazaar, Koti, Hyderabad, Telangana 500095, India": {
+        "formattedAddress": "Bank St, Sultan Bazar, Koti, Hyderabad, Telangana 500095, India",
+        "latitude": 17.3861863,
+        "longitude": 78.4818107,
+        "extra": {
+            "googlePlaceId": "ChIJzyyy8NOZyzsRkOUdal93EGE",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Sultan Bazar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Bank Street",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500095",
+        "provider": "google"
+    },
+    "Erragadda Main Rd, Vikaspuri, Erragadda, Hyderabad, Telangana 500038, India": {
+        "formattedAddress": "Erragadda Main Rd, Vikaspuri, Erragadda, Hyderabad, Telangana, India",
+        "latitude": 17.44878,
+        "longitude": 78.4335687,
+        "extra": {
+            "googlePlaceId": "EkRFcnJhZ2FkZGEgTWFpbiBSZCwgVmlrYXNwdXJpLCBFcnJhZ2FkZGEsIEh5ZGVyYWJhZCwgVGVsYW5nYW5hLCBJbmRpYSIuKiwKFAoSCTGSSLofkcs7EZf1PlNXv7LwEhQKEgknkddj4JDLOxEYVjCYaVQBhA",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Vikaspuri",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Erragadda Main Road",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Tirumalgiri road, Trimulgherry, Secunderabad, Telangana 500015, India": {
+        "formattedAddress": "Tirumalagiri Rd, Secunderabad, Telangana 500015, India",
+        "latitude": 17.4749189,
+        "longitude": 78.5213565,
+        "extra": {
+            "googlePlaceId": "EihUaXJ1bWFsYWdpcmkgUmQsIFRlbGFuZ2FuYSA1MDAwMTUsIEluZGlhIi4qLAoUChIJexygyKqbyzsRHLm1pe1EI7ESFAoSCdPNh6ajmss7EZI_DUX8JOdM",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Secunderabad",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Tirumalagiri Road",
+        "city": "Secunderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500015",
+        "provider": "google"
+    },
+    "Punjagutta Rd, Punjagutta Market, Punjagutta, Hyderabad, Telangana 500082, India": {
+        "formattedAddress": "Punjagutta Rd, Punjagutta Market, Punjagutta, Hyderabad, Telangana, India",
+        "latitude": 17.4223988,
+        "longitude": 78.4548171,
+        "extra": {
+            "googlePlaceId": "EklQdW5qYWd1dHRhIFJkLCBQdW5qYWd1dHRhIE1hcmtldCwgUHVuamFndXR0YSwgSHlkZXJhYmFkLCBUZWxhbmdhbmEsIEluZGlhIi4qLAoUChIJQZ_gYkmXyzsRtGYFDvyzdFISFAoSCXFClYs1l8s7EYKXLkBZ_8ep",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Punjagutta Market",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Punjagutta Road",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "15-5-104, Begum Bazaar, Afzal Gunj, Hyderabad, Telangana 500012, India": {
+        "formattedAddress": "356/5, Fish Market, Begum Bazaar, Feelkhana, Hyderabad, Telangana 500012, India",
+        "latitude": 17.375386,
+        "longitude": 78.47246,
+        "extra": {
+            "googlePlaceId": "ChIJa--514CXyzsRJPB2hMe1bSo",
+            "confidence": 1,
+            "premise": "356/5",
+            "subpremise": null,
+            "neighborhood": "Fish Market",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500012",
+        "provider": "google"
+    },
+    "Rail Kalyan, Lallaguda Railway Colony, Lalaguda, Mettuguda, Secunderabad, Telangana 500017, India": {
+        "formattedAddress": "South Lalaguda, Malkajgiri, Hyderabad, Telangana 500017, India",
+        "latitude": 17.436991,
+        "longitude": 78.51869719999999,
+        "extra": {
+            "googlePlaceId": "ChIJk54mkyyayzsR6_oKeGWFQqU",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "South Lalaguda",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500017",
+        "provider": "google"
+    },
+    "2-1-395, Nallakunta Main Rd, AP Housing Board, New Nallakunta, Hyderabad, Telangana 500044, India": {
+        "formattedAddress": "2-1-395, Nallakunta Main Rd, New Nallakunta, Hyderabad, Telangana 500044, India",
+        "latitude": 17.3962477,
+        "longitude": 78.5034505,
+        "extra": {
+            "googlePlaceId": "ChIJd2vUh7mZyzsR_Qy1p0Ott_M",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "New Nallakunta",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Hyderabad",
+            "level2short": "Hyderabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetNumber": "2-1-395",
+        "streetName": "Nallakunta Main Road",
+        "city": "Hyderabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "500044",
+        "provider": "google"
+    },
+    "Temple Rd, Arvind Nagar, Vani Nagar, Jagtial, Telangana 505327, India": {
+        "formattedAddress": "Temple Rd, Arvind Nagar, Vani Nagar, Jagtial, Telangana 505327, India",
+        "latitude": 18.7893754,
+        "longitude": 78.91691759999999,
+        "extra": {
+            "googlePlaceId": "Ej5UZW1wbGUgUmQsIEFydmluZCBOYWdhciwgVmFuaSBOYWdhciwgSmFndGlhbCwgVGVsYW5nYW5hLCBJbmRpYSIuKiwKFAoSCRO-wfGSE807EaegOFLdI-OjEhQKEgmzyihbkhPNOxH9MNjXYSdOEQ",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Arvind Nagar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Karimnagar",
+            "level2short": "Karimnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Temple Road",
+        "city": "Jagtial",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "505327",
+        "provider": "google"
+    },
+    "Gollapally Rd, Ashok Nagar, Krishnanagar, Jagtial, Telangana 505327, India": {
+        "formattedAddress": "Gollapally Rd, Krishnanagar, Jagtial, Telangana, India",
+        "latitude": 18.7980458,
+        "longitude": 78.92444259999999,
+        "extra": {
+            "googlePlaceId": "EjZHb2xsYXBhbGx5IFJkLCBLcmlzaG5hbmFnYXIsIEphZ3RpYWwsIFRlbGFuZ2FuYSwgSW5kaWEiLiosChQKEgm7VXHxehTNOxGAVUcS8tr1hxIUChIJvyxW244TzTsR3oIZVLGKOCI",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Krishnanagar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Karimnagar",
+            "level2short": "Karimnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Gollapally Road",
+        "city": "Jagtial",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Manjoor Nagar, Bhupalpally, Telangana 506169, India": {
+        "formattedAddress": "Manjoor Nagar, Bhupalpally, Telangana 506169, India",
+        "latitude": 18.4039732,
+        "longitude": 79.8541822,
+        "extra": {
+            "googlePlaceId": "ChIJGcK8krcbMzoRYsGWEX_Y6bY",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Manjoor Nagar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Warangal",
+            "level2short": "Warangal",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Bhupalpally",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "506169",
+        "provider": "google"
+    },
+    "Mahadevpur, Telangana 505504, India": {
+        "formattedAddress": "Mahadevpur, Telangana 505504, India",
+        "latitude": 18.7314702,
+        "longitude": 79.9836108,
+        "extra": {
+            "googlePlaceId": "ChIJS_nt_Qn6MjoRJzMjblqxGP8",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Mahadevpur",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Karimnagar",
+            "level2short": "Karimnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Mahadevpur",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "505504",
+        "provider": "google"
+    },
+    "Bhupalpally, Telangana 506169, India": {
+        "formattedAddress": "Bhupalpally, Telangana 506169, India",
+        "latitude": 18.4292622,
+        "longitude": 79.8634855,
+        "extra": {
+            "googlePlaceId": "ChIJacsMF5AbMzoR0Y9D2ypxtpM",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Bhupalpally",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Jayashankar",
+            "level2short": "Jayashankar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Bhupalpally",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "506169",
+        "provider": "google"
+    },
+    "Temple Road, Alampur, Gadwal, Telangana 509152, India": {
+        "formattedAddress": "Temple Road, Alampur, Gadwal, Telangana 509152, India",
+        "latitude": 15.8769909,
+        "longitude": 78.1346258,
+        "extra": {
+            "googlePlaceId": "ChIJ0Vi5W_XotTsRRW7YGIgfKIE",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Gadwal",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Mahabubnagar",
+            "level2short": "Mahabubnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Gadwal",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "509152",
+        "provider": "google"
+    },
+    "Momin Mohalla, Gadwal, Telangana 509125, India": {
+        "formattedAddress": "Momin Mohalla, Gadwal, Telangana 509125, India",
+        "latitude": 16.236401,
+        "longitude": 77.79312259999999,
+        "extra": {
+            "googlePlaceId": "ChIJ78vCt1f8yTsRUjaaLdOXltY",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Momin Mohalla",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Mahabubnagar",
+            "level2short": "Mahabubnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Gadwal",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "509125",
+        "provider": "google"
+    },
+    "Ashok nagar colony, Kamareddy, Ashok Nagar, Kamareddy, Telangana 503111, India": {
+        "formattedAddress": "Ashok Nagar, Kamareddy, Telangana 503111, India",
+        "latitude": 18.3301261,
+        "longitude": 78.33159289999999,
+        "extra": {
+            "googlePlaceId": "ChIJF8GCwJhJzDsRciEV-WLecFI",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Ashok Nagar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Nizamabad",
+            "level2short": "Nizamabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Kamareddy",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "503111",
+        "provider": "google"
+    },
+    "Domakonda, Telangana 503123, India": {
+        "formattedAddress": "Domakonda, Telangana, India",
+        "latitude": 18.2505062,
+        "longitude": 78.4382469,
+        "extra": {
+            "googlePlaceId": "ChIJL58wC3pFzDsRAF9lcDKcHHk",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Domakonda",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Nizamabad",
+            "level2short": "Nizamabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Domakonda",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Kamareddy Station Rd, Padmajiwadi X Road, Kamareddy, Telangana 503111, India": {
+        "formattedAddress": "Kamareddy Station Rd, Padmajiwadi X Road, Kamareddy, Telangana 503111, India",
+        "latitude": 18.3230247,
+        "longitude": 78.3372188,
+        "extra": {
+            "googlePlaceId": "EkVLYW1hcmVkZHkgU3RhdGlvbiBSZCwgUGFkbWFqaXdhZGkgWCBSb2FkLCBLYW1hcmVkZHksIFRlbGFuZ2FuYSwgSW5kaWEiLiosChQKEgn_NKtSp0nMOxG8qqLtnttFPBIUChIJEXj-SwhJzDsRUSZjGdwn8iI",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Padmajiwadi X Road",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Nizamabad",
+            "level2short": "Nizamabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Kamareddy Station Road",
+        "city": "Kamareddy",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "503111",
+        "provider": "google"
+    },
+    "Government Degree college Rd, Kamareddy, Telangana 503111, India": {
+        "formattedAddress": "Government Degree college Rd, Kamareddy, Telangana 503111, India",
+        "latitude": 18.3323554,
+        "longitude": 78.3233615,
+        "extra": {
+            "googlePlaceId": "EjlHb3Zlcm5tZW50IERlZ3JlZSBjb2xsZWdlIFJkLCBLYW1hcmVkZHksIFRlbGFuZ2FuYSwgSW5kaWEiLiosChQKEgl1DU2YlknMOxGYeH0kNURCNhIUChIJ8TVBgAVJzDsRQxeDa7Hdx6I",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Kamareddy",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Nizamabad",
+            "level2short": "Nizamabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Government Degree college Road",
+        "city": "Kamareddy",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "503111",
+        "provider": "google"
+    },
+    "Christian Colony, Karimnagar, Telangana 505001, India": {
+        "formattedAddress": "Christian Colony, Karimnagar, Telangana 505001, India",
+        "latitude": 18.4412676,
+        "longitude": 79.1287459,
+        "extra": {
+            "googlePlaceId": "ChIJvcRLIyHZzDsRdIAfSq-Z8yY",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Christian Colony",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Karimnagar",
+            "level2short": "Karimnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Karimnagar",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "505001",
+        "provider": "google"
+    },
+    "KC Camp, Huzurabad, Telangana 505498, India": {
+        "formattedAddress": "KC Camp, Huzurabad, Telangana 505498, India",
+        "latitude": 18.181645,
+        "longitude": 79.4035675,
+        "extra": {
+            "googlePlaceId": "ChIJPy-7AeA0MzoRh1W0D-l-WgI",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "KC Camp, Huzurabad",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Karimnagar",
+            "level2short": "Karimnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "505498",
+        "provider": "google"
+    },
+    "V M Banjar, National Highway 221, Penuballi, Telangana 507302, India": {
+        "formattedAddress": "V M Banjar, NH30, Penuballi, Telangana 507302, India",
+        "latitude": 17.2068018,
+        "longitude": 80.65957259999999,
+        "extra": {
+            "googlePlaceId": "ChIJralI4l4vNDoRM3xzi6Y9QIE",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Penuballi",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Khammam",
+            "level2short": "Khammam",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "National Highway 30",
+        "city": "Penuballi",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "507302",
+        "provider": "google"
+    },
+    "Nehru Nagar, Khammam, Telangana 507002, India": {
+        "formattedAddress": "Nehru Nagar, Khammam, Telangana, India",
+        "latitude": 17.2492678,
+        "longitude": 80.1491191,
+        "extra": {
+            "googlePlaceId": "ChIJrUHJB85ZNDoRiSWLyksceGA",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Nehru Nagar",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Khammam",
+            "level2short": "Khammam",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Khammam",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Kallegaon, Telangana 504293, India": {
+        "formattedAddress": "Kallegaon, Telangana, India",
+        "latitude": 19.3693618,
+        "longitude": 79.1717839,
+        "extra": {
+            "googlePlaceId": "ChIJkRF-aJil0jsROdat9ETYe2A",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Kallegaon",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Adilabad",
+            "level2short": "Adilabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Kallegaon",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Railway Station Rd, Mahabubabad, Telangana 506101, India": {
+        "formattedAddress": "Railway Station Rd, Mahabubabad, Telangana 506101, India",
+        "latitude": 17.5970934,
+        "longitude": 80.0023097,
+        "extra": {
+            "googlePlaceId": "ChIJp2jGU1GPNDoR_haNay-CMvY",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Mahabubabad",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Warangal",
+            "level2short": "Warangal",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Railway Station Road",
+        "city": "Mahabubabad",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "506101",
+        "provider": "google"
+    },
+    "Badepalle, Telangana 509301, India": {
+        "formattedAddress": "Badepalle, Telangana 509301, India",
+        "latitude": 16.755512,
+        "longitude": 78.1450837,
+        "extra": {
+            "googlePlaceId": "ChIJOToLGIM6yjsR4whcFAhK_9w",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Badepalle",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Mahabubnagar",
+            "level2short": "Mahabubnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Badepalle",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "509301",
+        "provider": "google"
+    },
+    "PR Colony, Mahbubnagar, Telangana 509001, India": {
+        "formattedAddress": "PR Colony, Mahbubnagar, Telangana 509001, India",
+        "latitude": 16.7499581,
+        "longitude": 78.01026279999999,
+        "extra": {
+            "googlePlaceId": "ChIJ6yRuoKkoyjsRCbxOb0IAZNs",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "PR Colony",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Mahabubnagar",
+            "level2short": "Mahabubnagar",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Mahbubnagar",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "509001",
+        "provider": "google"
+    },
+    "Nagarjuna Colony, Bhagath Singh Nagar, Ramakrishnapur, Telangana 504301, India": {
+        "formattedAddress": "Nagarjuna Colony, Bhagath Singh Nagar, Ramakrishnapur, Telangana 504301, India",
+        "latitude": 18.9297359,
+        "longitude": 79.4696854,
+        "extra": {
+            "googlePlaceId": "ChIJlbyt7NW1MjoReKOFbR_0UUs",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Nagarjuna Colony",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Adilabad",
+            "level2short": "Adilabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Ramakrishnapur",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "504301",
+        "provider": "google"
+    },
+    "Bellampalli Chowrastha, 12-493, Mancherial Rd, Indra Nagar, Iqbal Ahmed Nagar, Mancherial, Telangana 504208, India": {
+        "formattedAddress": "Gautami Nagar, 32, Mancherial - Chandrapur - Nagpur Rd, Mancherial, Telangana 504208, India",
+        "latitude": 18.8812579,
+        "longitude": 79.442426,
+        "extra": {
+            "googlePlaceId": "ChIJozDaHHTKMjoR8jMUvdQlSg0",
+            "confidence": 1,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Mancherial",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Adilabad",
+            "level2short": "Adilabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetNumber": "32",
+        "streetName": "Mancherial - Chandrapur - Nagpur Road",
+        "city": "Mancherial",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "504208",
+        "provider": "google"
+    },
+    "Bellampally Cross Road, beside IDBI Bank, Mancherial, Telangana 504208, India": {
+        "formattedAddress": "504208/9, Mancherial, Telangana 504208, India",
+        "latitude": 18.8809292,
+        "longitude": 79.43958549999999,
+        "extra": {
+            "googlePlaceId": "ChIJsU-u13bKMjoRCwk9jXnLOAE",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Mancherial",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Adilabad",
+            "level2short": "Adilabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Mancherial",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "504208",
+        "provider": "google"
+    },
+    "Ramakrishnapur,, Mancherial, Telangana 504301, India": {
+        "formattedAddress": "Ramakrishnapur, Telangana, India",
+        "latitude": 18.9293632,
+        "longitude": 79.47601329999999,
+        "extra": {
+            "googlePlaceId": "ChIJ7VlzBIC2MjoRxElNSNKMYWI",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Ramakrishnapur",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Adilabad",
+            "level2short": "Adilabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Ramakrishnapur",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    },
+    "Narsapur, Telangana 502313, India": {
+        "formattedAddress": "Narsapur, Telangana 502313, India",
+        "latitude": 17.7394297,
+        "longitude": 78.2846303,
+        "extra": {
+            "googlePlaceId": "ChIJY_vIxtkKzDsR9q1j8dL_DFk",
+            "confidence": 0.5,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Narsapur",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Medak",
+            "level2short": "Medak",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Narsapur",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "502313",
+        "provider": "google"
+    },
+    "Medak, National Highway 44, Nizamabad - Hyderabad Rd, Tupran, Telangana 502334, India": {
+        "formattedAddress": "NH 44 & Nizamabad - Hyderabad Rd, Dichpally, Telangana 503322, India",
+        "latitude": 18.6097508,
+        "longitude": 78.20982479999999,
+        "extra": {
+            "googlePlaceId": "EjlOSCA0NCAmIE5pemFtYWJhZCAtIEh5ZGVyYWJhZCBSZCwgVGVsYW5nYW5hIDUwMzMyMiwgSW5kaWEiZiJkChQKEgnl_oQFscjNOxFA6NTs8lSwbhIUChIJ5f6EBbHIzTsRQOjU7PJUsG4aFAoSCVXiJOE8xo85EYzKi4BjhIWUGhQKEgmrXLgOKtvNOxHSBaBZ-GcENyIKDWSfFwsVSN-dLg",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Dichpally",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Nizamabad",
+            "level2short": "Nizamabad",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Dichpally",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "503322",
+        "provider": "google"
+    },
+    "Wesley College Road Mission Compound, Mission Compound, Medak, Medak U, Telangana 502110, India": {
+        "formattedAddress": "Wesley College Road Mission Compound, Mission Compound, Medak, Medak U, Telangana 502110, India",
+        "latitude": 18.0537204,
+        "longitude": 78.2671031,
+        "extra": {
+            "googlePlaceId": "ChIJ08uX_WgVzDsR9f0fa1qH_pg",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Medak",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level2long": "Medak",
+            "level2short": "Medak",
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "city": "Medak U",
+        "country": "India",
+        "countryCode": "IN",
+        "zipcode": "502110",
+        "provider": "google"
+    },
+    "Hyderabad-Warangal High Way Warangal, Hyderabad Road, Balaji Nagar, Ghatkesar, Telangana 501301, India": {
+        "formattedAddress": "Hyderabad - Warangal Hwy, Telangana, India",
+        "latitude": 17.6735073,
+        "longitude": 79.09610529999999,
+        "extra": {
+            "googlePlaceId": "ChIJ3aS631pBMjoRwVOujgYXFPk",
+            "confidence": 0.7,
+            "premise": null,
+            "subpremise": null,
+            "neighborhood": "Telangana",
+            "establishment": null
+        },
+        "administrativeLevels": {
+            "level1long": "Telangana",
+            "level1short": "TG"
+        },
+        "streetName": "Hyderabad - Warangal Highway",
+        "country": "India",
+        "countryCode": "IN",
+        "provider": "google"
+    }
+}
