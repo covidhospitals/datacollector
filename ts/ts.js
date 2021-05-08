@@ -61,8 +61,14 @@ function sleep(ms) {
 async function collectTSLocations() {
     var data = await fetch('https://covidtelangana.com/data/covidtelangana.com/bed_data.json').then(r => r.json())
     console.log('Total hospitals ', data.length);
-    var addresses = data.map(d => {
-        return d.hospital_address;
+    var addresses = data.map(h => {
+        if (!h.hospital_address) {
+            return
+        }
+        return {
+            key: `${h.hospital_name}::${h.district}`,
+            address: h.hospital_address
+        }
     }).filter(d => !!d);
     console.log('Total hospitals addresses ', addresses.length);
 
@@ -80,7 +86,7 @@ async function collectTSLocations() {
 
         console.log(`Fetching locations of ${startIndex} to ${startIndex + BATCH_SIZE} hospitals. Size: ${batch.length}`)
         var batchLocationQuery = batch.map(a => ({
-            address: a,
+            address: a.address,
             country: "India",
             limit: 1
         }))
@@ -96,13 +102,6 @@ async function collectTSLocations() {
         console.log(`Locations identified ${locations.length}`)
 
         geocodeResult = geocodeResult.concat(locations)
-
-        var locationJSON = batch.reduce((result, current, idx) => {
-            result[current] = locations[idx];
-            return result;
-        }, {});
-
-        jsonfile.writeFile('ts-locations.json', locationJSON)
         index++
         await sleep(2000);
     }
@@ -110,10 +109,10 @@ async function collectTSLocations() {
     console.log('geocodeResult length ', geocodeResult.length);
 
     var locationJSON = addresses.reduce((result, current, idx) => {
-        result[current] = geocodeResult[idx];
+        result[current.key] = geocodeResult[idx];
         return result;
     }, {});
-    jsonfile.writeFile('ts-locations.json', locationJSON)
+    jsonfile.writeFile(__dirname+'/ts-locations.json', locationJSON)
 }
 
 
