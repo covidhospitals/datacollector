@@ -11,7 +11,7 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-exports.collectLocations = async function collectLocations(url, state, existingData) {
+exports.collectLocations = async function collectLocations(url, state, existingData, addressKey) {
     if (!existingData) {
         existingData = {};
     }
@@ -24,7 +24,7 @@ exports.collectLocations = async function collectLocations(url, state, existingD
         if (!!existingData[key]) {
             return;
         }
-        var addr = h.hospital_address;
+        var addr = h[addressKey || "hospital_address"];
         if (!addr) {
             addr = `${h.hospital_name}, ${h.district}, ${state}`
         }
